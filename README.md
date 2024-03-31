@@ -124,7 +124,7 @@ This project is based on Android Basics with Compose course by Android Developer
 
 ## 3. Demonstration video (video demonstrasi)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vg9MJ22xm0M?si=AWnqj2XCt9JJw-l2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[https://www.youtube.com/watch?v=Vg9MJ22xm0M](https://www.youtube.com/watch?v=Vg9MJ22xm0M)
 
 ## 4. Reference (referensi)
 
